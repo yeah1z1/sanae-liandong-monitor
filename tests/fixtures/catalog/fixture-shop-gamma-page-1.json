@@ -1,0 +1,163 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "total": 11,
+    "list": [
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-001",
+        "name": "Synthetic sample listing 1-001",
+        "price": 168,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-002",
+        "name": "Synthetic sample listing 1-002",
+        "price": 30,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-003",
+        "name": "Synthetic sample listing 1-003",
+        "price": 15,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-004",
+        "name": "Synthetic sample listing 1-004",
+        "price": 45,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-005",
+        "name": "Synthetic sample listing 1-005",
+        "price": 113,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-006",
+        "name": "Synthetic sample listing 1-006",
+        "price": 35,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 10,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-007",
+        "name": "Synthetic sample listing 1-007",
+        "price": 129,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 7,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-008",
+        "name": "Synthetic sample listing 1-008",
+        "price": 10,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 1833,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-009",
+        "name": "Synthetic sample listing 1-009",
+        "price": 0.9,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-010",
+        "name": "Synthetic sample listing 1-010",
+        "price": 1,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 185,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-gamma-p1-item-011",
+        "name": "Synthetic sample listing 1-011",
+        "price": 18,
+        "user": {
+          "token": "fixture-shop-gamma"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      }
+    ]
+  }
+}

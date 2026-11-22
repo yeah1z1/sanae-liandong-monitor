@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "shops": [],
+  "poll_seconds": 20,
+  "new_listing_price_threshold_cny": 20,
+  "request_timeout": 10,
+  "max_backoff_seconds": 600,
+  "pending_ttl_seconds": 120,
+  "telegram_chat_id": "",
+  "telegram_bot_token_env": "TELEGRAM_BOT_TOKEN",
+  "onebot_url": "http://127.0.0.1:3002",
+  "onebot_priority_group_id": "",
+  "onebot_priority_only": true,
+  "onebot_all_group_id": "",
+  "onebot_private_user_id": "",
+  "onebot_priority_mentions": [],
+  "deepseek_model": "deepseek-flash",
+  "deepseek_api_key_env": "DEEPSEEK_API_KEY",
+  "deepseek_timeout": 12,
+  "service_status": {
+    "enabled": false,
+    "poll_seconds": 60,
+    "request_timeout": 10,
+    "include_claude": false
+  },
+  "analytics": {
+    "enabled": false,
+    "send_daily": false,
+    "report_hour": 0,
+    "report_minute": 5,
+    "max_catchup_days": 3,
+    "current_report_seconds": 3600,
+    "xlsx": {
+      "node_executable": "",
+      "artifact_tool_module": ""
+    }
+  }
+}

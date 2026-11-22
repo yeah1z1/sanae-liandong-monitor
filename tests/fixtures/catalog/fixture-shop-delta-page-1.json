@@ -1,0 +1,51 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "total": 3,
+    "list": [
+      {
+        "goods_type": "card",
+        "goods_key": "sample-item-delta-0001",
+        "name": "Synthetic sample listing 1-001",
+        "price": 45,
+        "user": {
+          "token": "fixture-shop-delta"
+        },
+        "extend": {
+          "stock_count": 11,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-delta-p1-item-002",
+        "name": "Synthetic sample listing 1-002",
+        "price": 68,
+        "user": {
+          "token": "fixture-shop-delta"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-delta-p1-item-003",
+        "name": "Synthetic sample listing 1-003",
+        "price": 15,
+        "user": {
+          "token": "fixture-shop-delta"
+        },
+        "extend": {
+          "stock_count": 1,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      }
+    ]
+  }
+}

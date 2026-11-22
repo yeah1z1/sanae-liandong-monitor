@@ -1,0 +1,205 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "total": 14,
+    "list": [
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-001",
+        "name": "Synthetic sample listing 1-001",
+        "price": 48,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-002",
+        "name": "Synthetic sample listing 1-002",
+        "price": 85,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-003",
+        "name": "Synthetic sample listing 1-003",
+        "price": 1.88,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 135,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-004",
+        "name": "Synthetic sample listing 1-004",
+        "price": 2.99,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 400,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-005",
+        "name": "Synthetic sample listing 1-005",
+        "price": 5.4,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 104,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-006",
+        "name": "Synthetic sample listing 1-006",
+        "price": 1060,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 14,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-007",
+        "name": "Synthetic sample listing 1-007",
+        "price": 122.1,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 367,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-008",
+        "name": "Synthetic sample listing 1-008",
+        "price": 58,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 8,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-009",
+        "name": "Synthetic sample listing 1-009",
+        "price": 3.75,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 12,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-010",
+        "name": "Synthetic sample listing 1-010",
+        "price": 1.54,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 0,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-011",
+        "name": "Synthetic sample listing 1-011",
+        "price": 1.97,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 110,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-012",
+        "name": "Synthetic sample listing 1-012",
+        "price": 4.29,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 481,
+          "show_stock_type": 1
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-013",
+        "name": "Synthetic sample listing 1-013",
+        "price": 1.87,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 1540,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      },
+      {
+        "goods_type": "card",
+        "goods_key": "fixture-shop-epsilon-p1-item-014",
+        "name": "Synthetic sample listing 1-014",
+        "price": 1.54,
+        "user": {
+          "token": "fixture-shop-epsilon"
+        },
+        "extend": {
+          "stock_count": 82,
+          "show_stock_type": 0
+        },
+        "description": "<p>Synthetic offline fixture.</p>"
+      }
+    ]
+  }
+}
